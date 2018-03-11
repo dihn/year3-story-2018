@@ -1,7 +1,6 @@
-# year3-story-2018
-repository to fork for the 'git story' assessment
+# 1984 is 2032?
 
-for this repo, to use as a starting point for your story
-(and don't forget to complete your assessment by making a 'pull request' back to me...)
+Short fiction story about the potential dystopian future AI may bring about
 
-.. matt smith ...
+## Chapters
+[Chapter 1](chapter01.html)
