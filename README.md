@@ -10,5 +10,7 @@ Short fiction story about the potential dystopian future AI may bring about
 
 [Chapter 2](chapter02.html)
 
+[Chapter 3](chapter03.html)
+
 ## Github Links
 [Github Account](https://github.com/dihn)
