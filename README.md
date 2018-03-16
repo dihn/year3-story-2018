@@ -17,3 +17,4 @@ Incomplete - version 0.5
 
 ## Github Links
 [Github Account](https://github.com/dihn)
+[Github Pages](https://dihn.github.io/year3-story-2018/)
