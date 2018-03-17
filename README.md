@@ -21,3 +21,6 @@ Incomplete - version 0.5
 [Github Account](https://github.com/dihn)
 
 [Github Pages](https://dihn.github.io/year3-story-2018/)
+
+## Releases
+[v1.0](https://github.com/dihn/year3-story-2018/releases/tag/v1.0)
