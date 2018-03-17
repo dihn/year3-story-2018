@@ -5,6 +5,8 @@ Short fiction story about the potential dystopian future AI may bring about
 ## Project status
 Incomplete - version 0.5
 
+## Issues
+[Issues](https://github.com/dihn/year3-story-2018/issues)
 
 ## Chapters
 [Chapter 1](chapter01.html) : version 1.0
