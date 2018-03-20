@@ -9,7 +9,7 @@ Incomplete - version 0.5
 [Issues](https://github.com/dihn/year3-story-2018/issues)
 
 ## Chapters
-[Chapter 1](chapter01.html) : version 1.0
+[Chapter 1](chapter01.html) : version 1.1
 
 [Chapter 2](chapter02.html) : version 1.0
 
