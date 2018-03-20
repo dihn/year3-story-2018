@@ -17,6 +17,8 @@ Incomplete - version 0.5
 
 [Chapter 4](chapter04.html) : version 1.1
 
+[Chapter 4 - Alternative Ending](https://github.com/dihn/year3-story-2018/blob/alternative_ending/alternative_ending.html) : version 1.0
+
 ## Github Links
 [Github Account](https://github.com/dihn)
 
