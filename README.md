@@ -9,13 +9,13 @@ Incomplete - version 0.5
 [Issues](https://github.com/dihn/year3-story-2018/issues)
 
 ## Chapters
-[Chapter 1](chapter01.html) : version 1.1
+[Chapter 1](chapter01.html) : version 2.0
 
-[Chapter 2](chapter02.html) : version 1.0
+[Chapter 2](chapter02.html) : version 2.0
 
-[Chapter 3](chapter03.html) : version 1.1
+[Chapter 3](chapter03.html) : version 2.0
 
-[Chapter 4](chapter04.html) : version 1.1
+[Chapter 4](chapter04.html) : version 2.0
 
 [Chapter 4 - Alternative Ending](https://github.com/dihn/year3-story-2018/blob/alternative_ending/alternative_ending.html) : version 1.0
 
