@@ -26,3 +26,4 @@ Incomplete - version 0.5
 
 ## Releases
 [v1.0](https://github.com/dihn/year3-story-2018/releases/tag/v1.0)
+[v2.0](https://github.com/dihn/year3-story-2018/releases/tag/v2.0)
