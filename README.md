@@ -13,7 +13,7 @@ Incomplete - version 0.5
 
 [Chapter 2](chapter02.html) : version 1.0
 
-[Chapter 3](chapter03.html) : version 1.0
+[Chapter 3](chapter03.html) : version 1.1
 
 [Chapter 4](chapter04.html) : version 1.1
 
